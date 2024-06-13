@@ -6,5 +6,5 @@ Ana Belén Rivarola   anabelenrivarola245@gmail.com
 Andrés Grijalba		   agrijalba.72@outlook.com
 Gustavo	Arza		     gustavo.arza@gmail.com
 Cristian Dal Piva	   dalpivacristian@gmail.com
-Tomas Crespo Rico    tomascrespoes@gmail.com
+Tomás Crespo Rico    tomascrespoes@gmail.com
 Vero Eschenmoser	   eschenmoserv@gmail.com
